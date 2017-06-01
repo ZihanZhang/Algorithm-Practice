@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55adf242-d756-4415-9b59-aca85b508d24" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Binary_Search/SearchForARange.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithm-Practice/Binary_Search/BinarySearch.class" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/Binary_Search/BinarySearch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithm-Practice/Test/CastDouToInt.class" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/Test/CastDouToInt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Binary_Search/SearchInsertPosition.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,24 +19,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BinarySearch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Binary_Search/BinarySearch.java">
+      <file leaf-file-name="SearchInsertPosition.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Binary_Search/SearchInsertPosition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            <state relative-caret-position="561">
+              <caret line="39" column="26" lean-forward="false" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchForARange.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Binary_Search/SearchForARange.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-              <folding>
-                <element signature="e#256#265#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -66,6 +52,7 @@
         <option value="$PROJECT_DIR$/src/Test/CastDouToInt.java" />
         <option value="$PROJECT_DIR$/src/Binary_Search/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/Binary_Search/SearchForARange.java" />
+        <option value="$PROJECT_DIR$/src/Binary_Search/SearchInsertPosition.java" />
       </list>
     </option>
   </component>
@@ -646,12 +633,12 @@
       <updated>1496119394603</updated>
       <workItem from="1496119396241" duration="1922000" />
       <workItem from="1496203995912" duration="3211000" />
-      <workItem from="1496281469806" duration="2759000" />
+      <workItem from="1496281469806" duration="6164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7892000" />
+    <option name="totallyTimeSpent" value="11297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -727,6 +714,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Search/SearchForARange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <element signature="e#256#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Binary_Search/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -735,13 +732,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Binary_Search/SearchForARange.java">
+    <entry file="file://$PROJECT_DIR$/src/Binary_Search/SearchInsertPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding>
-            <element signature="e#256#265#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="561">
+          <caret line="39" column="26" lean-forward="false" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
