@@ -3,6 +3,8 @@ package Binary_Search;
 /**
  * Created by ZihanZhang on 17/6/1.
  */
+
+//This is not the best solution. This matrix can be seen as an array!!
 public class SearchA2DMatrix {
     public boolean searchMatrix(int[][] matrix, int target) {
         int start = 0;

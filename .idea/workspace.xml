@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55adf242-d756-4415-9b59-aca85b508d24" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Binary_Search/SearchA2DMatrix.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Binary_Search/SearchA2DMatrix.java" afterPath="$PROJECT_DIR$/src/Binary_Search/SearchA2DMatrix.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +21,8 @@
       <file leaf-file-name="SearchA2DMatrix.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Binary_Search/SearchA2DMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            <state relative-caret-position="102">
+              <caret line="6" column="70" lean-forward="false" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -635,12 +634,12 @@
       <workItem from="1496119396241" duration="1922000" />
       <workItem from="1496203995912" duration="3211000" />
       <workItem from="1496281469806" duration="6192000" />
-      <workItem from="1496375390491" duration="2093000" />
+      <workItem from="1496375390491" duration="2631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13418000" />
+    <option name="totallyTimeSpent" value="13956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -752,8 +751,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Binary_Search/SearchA2DMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        <state relative-caret-position="102">
+          <caret line="6" column="70" lean-forward="false" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
           <folding />
         </state>
       </provider>
