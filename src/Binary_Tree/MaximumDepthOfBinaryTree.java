@@ -10,7 +10,7 @@ public class MaximumDepthOfBinaryTree {
     class TreeNode {
         TreeNode left, right;
     }
-
+//Better solution: if (root == null) return 0;
     public int maxDepth(TreeNode root) {
         if (root.left == null && root.right == null) {
             return 0;
