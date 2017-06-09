@@ -3,6 +3,8 @@ package Binary_Tree;
 /**
  * Created by ZihanZhang on 17/6/8.
  */
+
+//Using Parent is better
 public class LowestCommonAncestor {
     public TreeNode lowestCommonAncester(TreeNode root, TreeNode A, TreeNode B) {
         if ((isSubNode(root.left, A) && isSubNode(root. right, B) || (isSubNode(root.right, A) && isSubNode(root.left, B)))) {
