@@ -5,4 +5,5 @@ package Binary_Tree;
  */
 public class TreeNode {
     TreeNode left, right;
+    Integer value;
 }

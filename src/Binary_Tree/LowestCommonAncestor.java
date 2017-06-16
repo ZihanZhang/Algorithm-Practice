@@ -5,6 +5,7 @@ package Binary_Tree;
  */
 
 //Using Parent is better
+//Return can contain information. No need for another method.
 public class LowestCommonAncestor {
     public TreeNode lowestCommonAncester(TreeNode root, TreeNode A, TreeNode B) {
         if ((isSubNode(root.left, A) && isSubNode(root. right, B) || (isSubNode(root.right, A) && isSubNode(root.left, B)))) {
