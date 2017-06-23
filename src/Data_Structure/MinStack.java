@@ -6,6 +6,8 @@ import java.util.Stack;
 /**
  * Created by ZihanZhang on 17/6/23.
  */
+//Stack can be used on latest storage.
+//Can be determined when pushing object
 public class MinStack {
     Stack minstack;
 
