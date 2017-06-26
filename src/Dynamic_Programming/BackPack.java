@@ -4,11 +4,14 @@ package Dynamic_Programming;
  * Created by ZihanZhang on 17/6/26.
  */
 //Remember states before can be used to infer present state
+
+//WRONG!
 public class BackPack {
     public int backPack(int m, int[] A) {
         int[] full = new int[A.length];
+        full[0] = A[0];
 
-        for (int i = 0; i < A.length; i++) {
+        for (int i = 1; i < A.length; i++) {
             if (full[i - 1] + A[i] <= m) {
                 full[i] = full[i - 1] + A[i];
             }
@@ -21,6 +24,6 @@ public class BackPack {
             }
         }
 
-        return full[A.length];
+        return full[A.length - 1];
     }
 }
