@@ -3,6 +3,7 @@ package Dynamic_Programming;
 /**
  * Created by ZihanZhang on 17/6/26.
  */
+//Remember states before can be used to infer present state
 public class BackPack {
     public int backPack(int m, int[] A) {
         int[] full = new int[A.length];
