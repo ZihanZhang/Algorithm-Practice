@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55adf242-d756-4415-9b59-aca85b508d24" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Dynamic_Programming/BackPackII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Dynamic_Programming/kSum.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Dynamic_Programming/BackPack.java" afterPath="$PROJECT_DIR$/src/Dynamic_Programming/BackPack.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +22,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BackPack.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BackPack.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/BackPack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/kSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -108,6 +117,7 @@
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/InterleavingString.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/BackPackII.java" />
         <option value="$PROJECT_DIR$/src/Dynamic_Programming/BackPack.java" />
+        <option value="$PROJECT_DIR$/src/Dynamic_Programming/kSum.java" />
       </list>
     </option>
   </component>
@@ -792,12 +802,12 @@
       <workItem from="1498194964891" duration="10853000" />
       <workItem from="1498342332341" duration="7336000" />
       <workItem from="1498460652354" duration="2932000" />
-      <workItem from="1499663060037" duration="5547000" />
+      <workItem from="1499663060037" duration="7044000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83990000" />
+    <option name="totallyTimeSpent" value="85487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -849,14 +859,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Binary_Search/FirstBadVersion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Binary_Search/FindPeakElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -1253,6 +1255,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dynamic_Programming/kSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding />
         </state>
       </provider>
