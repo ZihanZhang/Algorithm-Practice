@@ -6,6 +6,7 @@ package Dynamic_Programming;
 //Remember states before can be used to infer present state
 
 //WRONG!
+//The answer can be in the arrays
 public class BackPack {
     public int backPack(int m, int[] A) {
         int[] full = new int[A.length];
