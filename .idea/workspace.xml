@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55adf242-d756-4415-9b59-aca85b508d24" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Others/CutOffTreesForGolfEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Others/DFS_Binary_Tree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test/Test215.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithm-Practice/Binary_Search/SearchForARange.class" afterPath="$PROJECT_DIR$/out/production/Algorithm-Practice/Binary_Search/SearchForARange.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Others/DFS_Binary_Tree_Iteration.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,11 +22,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DFS_Binary_Tree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DFS_Binary_Tree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Others/DFS_Binary_Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="357">
+              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DFS_Binary_Tree_Iteration.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Others/DFS_Binary_Tree_Iteration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -55,7 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Test/CastDouToInt.java" />
         <option value="$PROJECT_DIR$/src/Binary_Search/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/Binary_Search/SearchForARange.java" />
         <option value="$PROJECT_DIR$/src/Binary_Search/SearchInsertPosition.java" />
@@ -106,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/Test/Test215.java" />
         <option value="$PROJECT_DIR$/src/Others/CutOffTreesForGolfEvent.java" />
         <option value="$PROJECT_DIR$/src/Others/DFS_Binary_Tree.java" />
+        <option value="$PROJECT_DIR$/src/Others/DFS_Binary_Tree_Iteration.java" />
       </list>
     </option>
   </component>
@@ -851,12 +858,12 @@
       <workItem from="1504282291304" duration="920000" />
       <workItem from="1505152229101" duration="1837000" />
       <workItem from="1505158638758" duration="9000" />
-      <workItem from="1505787225532" duration="1703000" />
+      <workItem from="1505787225532" duration="3615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95380000" />
+    <option name="totallyTimeSpent" value="97292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -939,13 +946,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test/CastDouToInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Binary_Search/SearchForARange.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
@@ -1273,8 +1273,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Others/DFS_Binary_Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="357">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Others/DFS_Binary_Tree_Iteration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
           <folding />
         </state>
       </provider>
