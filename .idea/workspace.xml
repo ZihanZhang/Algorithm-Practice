@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55adf242-d756-4415-9b59-aca85b508d24" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Others/DFS_Binary_Tree_Iteration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Others/BFS_Binary_Tree.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,12 +32,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DFS_Binary_Tree_Iteration.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DFS_Binary_Tree_Iteration.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Others/DFS_Binary_Tree_Iteration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="5" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BFS_Binary_Tree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Others/BFS_Binary_Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Binary_Search/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/Binary_Search/SearchForARange.java" />
         <option value="$PROJECT_DIR$/src/Binary_Search/SearchInsertPosition.java" />
         <option value="$PROJECT_DIR$/src/Binary_Search/SearchA2DMatrix.java" />
@@ -113,6 +124,7 @@
         <option value="$PROJECT_DIR$/src/Others/CutOffTreesForGolfEvent.java" />
         <option value="$PROJECT_DIR$/src/Others/DFS_Binary_Tree.java" />
         <option value="$PROJECT_DIR$/src/Others/DFS_Binary_Tree_Iteration.java" />
+        <option value="$PROJECT_DIR$/src/Others/BFS_Binary_Tree.java" />
       </list>
     </option>
   </component>
@@ -328,6 +340,7 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value="dfs&#9;FILE&#9;file:///Users/ZihanZhang/Documents/Projects/Github/Algorithm-Practice/src/Others/DFS_Binary_Tree_Iteration.java" />
   </component>
   <component name="RunManager" selected="Application.Test215">
     <configuration default="false" name="CastDouToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -828,6 +841,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="55adf242-d756-4415-9b59-aca85b508d24" name="Default" comment="" />
@@ -858,12 +874,12 @@
       <workItem from="1504282291304" duration="920000" />
       <workItem from="1505152229101" duration="1837000" />
       <workItem from="1505158638758" duration="9000" />
-      <workItem from="1505787225532" duration="3615000" />
+      <workItem from="1505787225532" duration="4176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97292000" />
+    <option name="totallyTimeSpent" value="97853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -946,13 +962,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Binary_Search/SearchForARange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Binary_Search/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -1281,9 +1290,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Others/DFS_Binary_Tree_Iteration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Others/BFS_Binary_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
