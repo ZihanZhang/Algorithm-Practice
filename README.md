@@ -1,1 +1,1 @@
-# Repository for practicing algorithm based on Leetcode and Lintcode
+Repository for practicing algorithm based on Leetcode and Lintcode
